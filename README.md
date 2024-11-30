@@ -68,8 +68,8 @@ I'm passionate about developing innovative AI/ML solutions and contributing to t
    - Achieved **99% precision** and **97% recall accuracy** and **98% accuracy at 50% of IOU** using CNNs.  
 
 5. **[Satellite Image Classification](#)**  
-   - Achieved **99.72% training** and **91.73% validation accuracy** using CNNs.  
-
+   - Achieved **98% training** and **98% validation accuracy** using CNNs.
+   - Achieved **99% training** and **99% validation accuracy** using Transfer Learning(VGG16, ResNet50).
 
 ---
 
