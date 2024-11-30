@@ -33,14 +33,22 @@ I'm passionate about developing innovative AI/ML solutions and contributing to t
 - Artificial Neural Networks (ANNs)  
 - Convolutional Neural Networks (CNNs)  
 - Recurrent Neural Networks (RNNs)  
-- Transfer Learning, Hyperparameter Tuning  
+- Transfer Learning, Hyperparameter Tuning
+
+### **Natural Language Processing**
+- NLTK, Spacy  
+- Text Processing, Tokenization, Steaming, Lemmatization, Embeddings(One-Hot Encoding, TF-IDF, Word2Vec etc.)
+
+### **generative AI**
+- Transformers Architecture
+- LLM's(Open Source, Lamma, Mistral, Gemini, OpenAI)
 
 ### **Programming & Tools**
 - **Languages:** Python, R-Programming, HTML, CSS, SQL
-- **Libraries & Frameworks:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, OpenCV  
+- **Libraries & Frameworks:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, OpenCV, Langchain, CrewAI
 - **Visualization:** Matplotlib, Seaborn  
 - **Web Development:** Streamlit, Flask, DJango, FastAPI  
-- **AI/ML Tools:** LangChain, FAISS, CrewAI  
+- **Tools:** Weka, Tableau, PowerBI, Jamovi. 
 
 ---
 
@@ -59,9 +67,8 @@ I'm passionate about developing innovative AI/ML solutions and contributing to t
    - Leveraged YOLO v8 for number plate and traffic sign detection and used EasyOCR for recognition of number plate.
    - Achieved **99% precision** and **97% recall accuracy** and **98% accuracy at 50% of IOU** using CNNs.  
 
-6. **[Satellite Image Classification](#)**  
+5. **[Satellite Image Classification](#)**  
    - Achieved **99.72% training** and **91.73% validation accuracy** using CNNs.  
-
 
 
 ---
