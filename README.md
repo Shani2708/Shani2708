@@ -67,7 +67,7 @@ I'm passionate about developing innovative AI/ML solutions and contributing to t
 ---
 
 ## 🤝 Let's Connect!
-- [https://www.linkedin.com/in/shani-darji-59b2a8263/](#)   
+- [LinkdIN](#)   
 
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
